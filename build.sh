@@ -24,11 +24,9 @@ ldflags="-X 'iot-master/args.Version=$version' \
 -X 'iot-master/args.buildTime=$buildTime'"
 
 export GOOS=linux
-export CGO_ENABLED=1
+# export CGO_ENABLED=1
 
-#go build -o MyDTU main.go
 go build -ldflags "$ldflags" -o iot-master-linux main.go
 
 export GOOS=windows
-#go build -o MyDTU.exe main.go
 go build -ldflags "$ldflags" -o iot-master-win64.exe main.go
