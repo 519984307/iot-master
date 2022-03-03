@@ -7,7 +7,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/zgwit/iot-master)](https://goreportcard.com/report/github.com/zgwit/iot-master)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
-物联大师是[真格智能实验室](https://labs.zgwit.com)推出的一款物联网自动控制系统， 集成了数据采集、历史存储、定时任务、自动控制、异常报警等功能，适用于大部分物联网或工业互联网数据应用场景。
+物联大师是[真格智能实验室](https://zgwit.com)推出的一款物联网自动控制系统， 集成了数据采集、历史存储、定时任务、自动控制、异常报警等功能，适用于大部分物联网或工业互联网数据应用场景。
 
 项目官网 [iot-master.com](https://iot-master.com) 提供丰富的元件库和在线模板， 可以直接用于大部分物联网项目后端，快速，方便，高效。
 
@@ -87,3 +87,7 @@
 ![微信号](https://labs.zgwit.com/qrcode.jpg)
 
 [![真格智能实验室](https://labs.zgwit.com/logo.png)](https://labs.zgwit.com)
+
+
+
+[苏ICP备16034667号-14](http://beian.miit.gov.cn/)
